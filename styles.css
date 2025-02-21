@@ -252,3 +252,20 @@ h1 {
     text-align: center;      /* 中央寄せ */
     width: 200px;            /* 横幅を200pxに固定 */
 }
+
+/* 全体の余白をリセット */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* タイトル部分の上の余白を減らす */
+#target-name {
+    margin-top: 0;  /* 余白をゼロにする */
+    padding-top: 0; /* 余白をゼロにする */
+}
+
+/* ゲームの他の部分の余白も必要に応じて調整 */
+#game-container {
+    padding-top: 10px; /* 余白を調整 */
+}

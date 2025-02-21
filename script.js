@@ -7946,7 +7946,7 @@ const statsElement = document.getElementById('stats'); // 統計情報を表示�
 
 // ゲームを初期化
 function initGame() {
-    lifePoints = 20;
+    lifePoints = 40;
     correctCount = 0;
     isGameActive = true;
     updateLifePoints();
