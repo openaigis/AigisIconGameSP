@@ -3664,11 +3664,18 @@ function loadNextRound() {
     }
 }
 
-// 画像クリック時の処理
+
+
+// 既存の handleImageClick 関数を見つける
 function handleImageClick(img, correctSrc) {
     if (!isGameActive) return;
 
     if (img.src === correctSrc) {
+        // 全ての画像のクリックイベントを無効化
+        document.querySelectorAll('#image-grid img').forEach(image => {
+            image.style.pointerEvents = 'none';
+        });
+
         img.classList.add('correct');
         img.classList.remove('incorrect');
         correctCount++;
@@ -3682,7 +3689,13 @@ function handleImageClick(img, correctSrc) {
         }
         updateStats();
         updateLifePoints();
-        setTimeout(() => loadNextRound(), 500);
+        setTimeout(() => {
+            loadNextRound();
+            // 新しいラウンドがロードされた後にクリックイベントを有効化
+            document.querySelectorAll('#image-grid img').forEach(image => {
+                image.style.pointerEvents = 'auto';
+            });
+        }, 500);
     } else {
         img.classList.add('incorrect');
         img.classList.remove('correct');
@@ -3693,6 +3706,7 @@ function handleImageClick(img, correctSrc) {
         }
     }
 }
+
 
 // ゲーム終了
 function endGame() {
