@@ -3686,7 +3686,6 @@ function loadNextRound() {
 
 
 
-
 // 正解の画像がクリックされたときの処理
 function handleImageClick(img, correctSrc) {
     if (!isGameActive) return;
@@ -3704,12 +3703,14 @@ function handleImageClick(img, correctSrc) {
         // 90秒トライアルモード以外なら回復
         if (mode !== 'time-trial') {  
             if (mode === 'one-mistake') {
-                recoveryRate *= 3; // ワンミス終了モードなら回復量3倍
+                // ワンミス終了モードでは正解すると20だけ回復（回復量が減少しない）
+                lifePoints += 20;
             } else if (mode === 'endless-challenge' && correctCount % 10 === 0) {
                 recoveryRate *= 0.937; // 10回ごとに回復量を減少
+                lifePoints += recoveryRate;
+            } else {
+                lifePoints += recoveryRate; // 通常の回復
             }
-
-            lifePoints += recoveryRate; // 回復
 
             // ワンミス終了モードなら最大ライフを60に制限
             if (mode === 'one-mistake') {
@@ -3741,8 +3742,6 @@ function handleImageClick(img, correctSrc) {
         }
     }
 }
-
-
 
 
 
