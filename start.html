@@ -16,6 +16,11 @@
         #mode-selection button {
             margin-bottom: 10px; /* ボタン間のスペースを設定 */
         }
+
+        /* 詳細ボタンを少し離す */
+        #details-button {
+            margin-top: 100px; /* 詳細ボタンの上に20pxのスペース */
+        }
     </style>
 </head>
 <body>
@@ -23,6 +28,8 @@
     <div id="mode-selection">
         <button id="time-trial-mode">90秒トライアル</button>
         <button id="endless-challenge-mode">無限チャレンジ</button>
+        <button id="one-mistake-mode">ワンミス終了モード</button> <!-- 新しいボタン追加 -->
+        <button id="details-button">詳細</button> <!-- 詳細ボタン追加 -->
     </div>
     <script>
         document.getElementById('time-trial-mode').addEventListener('click', function() {
@@ -30,6 +37,12 @@
         });
         document.getElementById('endless-challenge-mode').addEventListener('click', function() {
             window.location.href = 'game.html?mode=endless-challenge';
+        });
+        document.getElementById('one-mistake-mode').addEventListener('click', function() {
+            window.location.href = 'game.html?mode=one-mistake'; // ワンミス終了モードの遷移先
+        });
+        document.getElementById('details-button').addEventListener('click', function() {
+            window.location.href = 'details.html'; // 詳細画面の遷移先
         });
     </script>
 </body>

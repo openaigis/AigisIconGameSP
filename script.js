@@ -3572,6 +3572,9 @@ const exitButton = document.getElementById('exit-button'); // ボタンの取得
 const startButton = document.getElementById('start-button'); // スタートボタン
 const statsElement = document.getElementById('stats'); // 統計情報を表示する要素
 
+
+
+
 // ゲームを初期化
 function initGame(selectedMode) {
     mode = selectedMode;
@@ -3579,6 +3582,8 @@ function initGame(selectedMode) {
         lifePoints = 90.0; // 90秒トライアルの初期ライフポイント
     } else if (mode === 'endless-challenge') {
         lifePoints = 30.0; // 無限チャレンジの初期ライフポイント
+    } else if (mode === 'one-mistake') {
+        lifePoints = 30.0; // ワンミス終了モード
     } else {
         lifePoints = 90.0; // デフォルトは通常の90ライフポイント
     }
@@ -3591,6 +3596,10 @@ function initGame(selectedMode) {
     startTimer();
     loadNextRound();
 }
+
+
+
+
 
 // ライフポイントを更新
 function updateLifePoints() {
@@ -3673,7 +3682,12 @@ function loadNextRound() {
     }
 }
 
-// 既存の handleImageClick 関数を見つける
+
+
+
+
+
+// 正解の画像がクリックされたときの処理
 function handleImageClick(img, correctSrc) {
     if (!isGameActive) return;
 
@@ -3687,14 +3701,20 @@ function handleImageClick(img, correctSrc) {
         img.classList.remove('incorrect');
         correctCount++;
         answeredImages.push(correctSrc); // 正解済みリストに追加（追加）
-        if (mode === 'endless-challenge') {
+
+        // モードがワンミス終了の時
+        if (mode === 'one-mistake') {
+            recoveryRate *= 3; // ライフポイントの回復量を3倍にする
+        } else if (mode === 'endless-challenge') {
             if (correctCount % 10 === 0) {
                 recoveryRate *= 0.937; // 正解を10回ごとに回復量を93.7%に減少
             }
-            lifePoints += recoveryRate; // 累積的に減少する回復量
-            // ライフポイントの上限を90に制限
-            lifePoints = Math.min(lifePoints, 90.0);
         }
+
+        lifePoints += recoveryRate; // 累積的に減少する回復量
+        // ライフポイントの上限を90に制限
+        lifePoints = Math.min(lifePoints, 90.0);
+
         updateStats();
         updateLifePoints();
         setTimeout(() => {
@@ -3707,13 +3727,23 @@ function handleImageClick(img, correctSrc) {
     } else {
         img.classList.add('incorrect');
         img.classList.remove('correct');
-        lifePoints -= 1.0; // 間違えるごとにライフポイント-1
-        updateLifePoints();
-        if (lifePoints <= 0) {
-            endGame();
+        if (mode === 'one-mistake') {
+            endGame(); // ワンミス終了モードの場合、間違えた時点で即終了
+        } else {
+            lifePoints -= 1.0; // 間違えるごとにライフポイント-1
+            updateLifePoints();
+            if (lifePoints <= 0) {
+                endGame();
+            }
         }
     }
 }
+
+
+
+
+
+
 
 // ゲーム終了
 function endGame() {
@@ -3738,4 +3768,11 @@ startButton.addEventListener('click', () => {
     const mode = urlParams.get('mode');
     initGame(mode);
     startButton.disabled = true;
+});
+
+
+
+// 右クリックメニューを無効にする
+document.getElementById('image-grid').addEventListener('contextmenu', function(event) {
+    event.preventDefault();  // デフォルトの右クリックメニューを防ぐ
 });
