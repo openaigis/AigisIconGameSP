@@ -3563,7 +3563,6 @@ let timerInterval;
 let correctCount = 0;
 let mode = 'normal'; // デフォルトモードを設定
 let recoveryRate = 3.0; // 初期回復量
-let answeredImages = []; // 正解済みの画像URLを記録（追加）
 
 const targetNameElement = document.getElementById('target-name');
 const imageGridElement = document.getElementById('image-grid');
@@ -3585,7 +3584,6 @@ function initGame(selectedMode) {
     correctCount = 0;
     recoveryRate = 3.0; // 初期回復量
     isGameActive = true;
-    answeredImages = []; // 正解済みリストをリセット（追加）
     updateLifePoints();
     updateStats(); // 統計情報を更新
     startTimer();
@@ -3640,14 +3638,7 @@ function loadNextRound() {
 
     imageGridElement.innerHTML = '';
 
-    // 正解済みを除外した画像リストを作成（追加）
-    const availableImages = images.filter(image => !answeredImages.includes(image.url));
-    if (availableImages.length < 9) {
-        endGame();
-        return;
-    }
-
-    const correctImage = availableImages[Math.floor(Math.random() * availableImages.length)];
+    const correctImage = images[Math.floor(Math.random() * images.length)];
     targetNameElement.textContent = correctImage.name;
 
     const selectedImages = [correctImage]; // 正解画像を選択
@@ -3658,7 +3649,7 @@ function loadNextRound() {
 
         let randomImage;
         do {
-            randomImage = availableImages[Math.floor(Math.random() * availableImages.length)]; // availableImagesから選択（修正）
+            randomImage = images[Math.floor(Math.random() * images.length)];
         } while (selectedImages.includes(randomImage)); // 同じ画像が選ばれないようにチェック
 
         if (i === correctIndex) {
@@ -3673,6 +3664,8 @@ function loadNextRound() {
     }
 }
 
+
+
 // 既存の handleImageClick 関数を見つける
 function handleImageClick(img, correctSrc) {
     if (!isGameActive) return;
@@ -3686,7 +3679,6 @@ function handleImageClick(img, correctSrc) {
         img.classList.add('correct');
         img.classList.remove('incorrect');
         correctCount++;
-        answeredImages.push(correctSrc); // 正解済みリストに追加（追加）
         if (mode === 'endless-challenge') {
             if (correctCount % 10 === 0) {
                 recoveryRate *= 0.937; // 正解を10回ごとに回復量を93.7%に減少
@@ -3714,6 +3706,7 @@ function handleImageClick(img, correctSrc) {
         }
     }
 }
+
 
 // ゲーム終了
 function endGame() {
