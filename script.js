@@ -3692,7 +3692,6 @@ function handleImageClick(img, correctSrc) {
     if (!isGameActive) return;
 
     if (img.src === correctSrc) {
-        // 全ての画像のクリックイベントを無効化
         document.querySelectorAll('#image-grid img').forEach(image => {
             image.style.pointerEvents = 'none';
         });
@@ -3700,26 +3699,24 @@ function handleImageClick(img, correctSrc) {
         img.classList.add('correct');
         img.classList.remove('incorrect');
         correctCount++;
-        answeredImages.push(correctSrc); // 正解済みリストに追加（追加）
+        answeredImages.push(correctSrc);
 
-        // モードがワンミス終了の時
-        if (mode === 'one-mistake') {
-            recoveryRate *= 3; // ライフポイントの回復量を3倍にする
-        } else if (mode === 'endless-challenge') {
-            if (correctCount % 10 === 0) {
-                recoveryRate *= 0.937; // 正解を10回ごとに回復量を93.7%に減少
+        // 90秒トライアル（time-trial）モード以外なら回復
+        if (mode !== 'time-trial') {  
+            if (mode === 'one-mistake') {
+                recoveryRate *= 3; // ワンミス終了モードなら回復量3倍
+            } else if (mode === 'endless-challenge' && correctCount % 10 === 0) {
+                recoveryRate *= 0.937; // 10回ごとに回復量を減少
             }
-        }
 
-        lifePoints += recoveryRate; // 累積的に減少する回復量
-        // ライフポイントの上限を90に制限
-        lifePoints = Math.min(lifePoints, 90.0);
+            lifePoints += recoveryRate; // 回復
+            lifePoints = Math.min(lifePoints, 90.0); // 上限90
+        }
 
         updateStats();
         updateLifePoints();
         setTimeout(() => {
             loadNextRound();
-            // 新しいラウンドがロードされた後にクリックイベントを有効化
             document.querySelectorAll('#image-grid img').forEach(image => {
                 image.style.pointerEvents = 'auto';
             });
@@ -3728,9 +3725,9 @@ function handleImageClick(img, correctSrc) {
         img.classList.add('incorrect');
         img.classList.remove('correct');
         if (mode === 'one-mistake') {
-            endGame(); // ワンミス終了モードの場合、間違えた時点で即終了
+            endGame();
         } else {
-            lifePoints -= 1.0; // 間違えるごとにライフポイント-1
+            lifePoints -= 1.0;
             updateLifePoints();
             if (lifePoints <= 0) {
                 endGame();
@@ -3738,7 +3735,6 @@ function handleImageClick(img, correctSrc) {
         }
     }
 }
-
 
 
 
