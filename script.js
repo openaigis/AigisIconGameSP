@@ -3701,7 +3701,7 @@ function handleImageClick(img, correctSrc) {
         correctCount++;
         answeredImages.push(correctSrc);
 
-        // 90秒トライアル（time-trial）モード以外なら回復
+        // 90秒トライアルモード以外なら回復
         if (mode !== 'time-trial') {  
             if (mode === 'one-mistake') {
                 recoveryRate *= 3; // ワンミス終了モードなら回復量3倍
@@ -3710,7 +3710,13 @@ function handleImageClick(img, correctSrc) {
             }
 
             lifePoints += recoveryRate; // 回復
-            lifePoints = Math.min(lifePoints, 90.0); // 上限90
+
+            // ワンミス終了モードなら最大ライフを60に制限
+            if (mode === 'one-mistake') {
+                lifePoints = Math.min(lifePoints, 60.0);
+            } else {
+                lifePoints = Math.min(lifePoints, 90.0); // 通常は90まで
+            }
         }
 
         updateStats();
