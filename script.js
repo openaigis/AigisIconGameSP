@@ -3642,6 +3642,11 @@ function startTimer() {
 
 // 次のラウンドを読み込む
 function loadNextRound() {
+    if (lifePoints <= 0) {  // ライフポイントがゼロか確認
+        endGame();
+        return;
+    }
+
     if (images.length === 0) {
         console.error('画像リストが空です');
         return;
@@ -3649,9 +3654,11 @@ function loadNextRound() {
 
     imageGridElement.innerHTML = '';
 
-    // 正解済みを除外した画像リストを作成（追加）
+    // 正解済みを除外した画像リストを作成
     const availableImages = images.filter(image => !answeredImages.includes(image.url));
-    if (availableImages.length < 9) {
+    
+    // 画像が10枚未満になった場合、ゲーム終了
+    if (availableImages.length < 10) {
         endGame();
         return;
     }
@@ -3667,7 +3674,7 @@ function loadNextRound() {
 
         let randomImage;
         do {
-            randomImage = availableImages[Math.floor(Math.random() * availableImages.length)]; // availableImagesから選択（修正）
+            randomImage = availableImages[Math.floor(Math.random() * availableImages.length)];
         } while (selectedImages.includes(randomImage)); // 同じ画像が選ばれないようにチェック
 
         if (i === correctIndex) {
@@ -3681,8 +3688,6 @@ function loadNextRound() {
         imageGridElement.appendChild(img);
     }
 }
-
-
 
 
 
