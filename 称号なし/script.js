@@ -21,11 +21,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F96bc657f4f467a37a7bbba409cfdd39b.png"
     },
     {
-        "name": "アサル",
+        "name": "新装アサル",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffeb37932cd74a67516205ad133142631.png"
     },
     {
-        "name": "アリア",
+        "name": "新装アリア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7f0c3235aa266b7c6e3d6fbc01503237.png"
     },
     {
@@ -53,7 +53,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F83f9f2ec1f48ed9964bd1dbc13435159.png"
     },
     {
-        "name": "キャリー",
+        "name": "新装キャリー",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fdf643502156772b1bdd46d54f9d47488.png"
     },
     {
@@ -89,7 +89,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F29f61d5bda872ace2eb88c72543a968c.png"
     },
     {
-        "name": "シビラ",
+        "name": "聖剣シビラ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fi.gyazo.com%2F39e8b75363ce83b4ab5ded5123c15c55.png"
     },
     {
@@ -105,7 +105,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F20736a4828df8195f301a588d3d4e5b8.png"
     },
     {
-        "name": "カルマ",
+        "name": "（ブラック）カルマ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fbdf6bba3a26ffb6aa1380bd7f1dc7b29.png"
     },
     {
@@ -129,7 +129,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffa216029f17ef31df76c01bb74c4f192.png"
     },
     {
-        "name": "リーフ",
+        "name": "新装リーフ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7ab7013f77e7cc312dcb43c6c2d2c4dc.png"
     },
     {
@@ -261,7 +261,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc2baeed2cd4b786cf67661df6c49254d.png"
     },
     {
-        "name": "ニエル",
+        "name": "新装ニエル",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F68f5ddfd89a5e47e4d807697835eb4b3.png"
     },
     {
@@ -337,7 +337,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2e09a1efb228de8d47591607073c7e8b.png"
     },
     {
-        "name": "マーガレット",
+        "name": "新装マーガレット",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F77efebcffd84e073eb3627b42a8b328a.png"
     },
     {
@@ -936,11 +936,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7b138a2b27dc3e2e2db26bcc29b58d29.png"
     },
     {
-        "name": "ソーマ",
+        "name": "新装ソーマ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F0747297d2c0be0be2c4ed8315faafffd.png"
     },
     {
-        "name": "ダニエラ",
+        "name": "新装ダニエラ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fab968e22b9a3e665341c592164d4fc36.png"
     },
     {
@@ -964,7 +964,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F4212d4614256ea56d3c00c4534c5179d.png"
     },
     {
-        "name": "メーリス",
+        "name": "新装メーリス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb6c2659c21cea03956199565d9d2c979.png"
     },
     {
@@ -1116,7 +1116,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd1a41f95eee3eec496f458a6a3816b69.png"
     },
     {
-        "name": "シャルキー",
+        "name": "新装シャルキー",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F35f3cf5f369b0b2d401eb0c73937d393.png"
     },
     {
