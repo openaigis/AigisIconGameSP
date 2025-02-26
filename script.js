@@ -977,7 +977,342 @@ let images = [
         "name": "聖なる技巧兵ドリー",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd468c92c6f04f9aa1c39208bfbd382a7.png"
     },
-
+    {
+        "name": "太公望",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F73f002f22c3e08784ffa00c3d0710903.png"
+    },
+    {
+        "name": "竜吉公主",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F6bc6f230b9f80fa9155d2dd262075164.png"
+    },
+    {
+        "name": "織姫",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F68449c0ab99c050c39151db0a3eebc7c.png"
+    },
+    {
+        "name": "謹賀祝仙女 太公望",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F929f7872f128f1396294b07dba625f5a.png"
+    },
+    {
+        "name": "夏陽海仙 竜吉公主",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa059f7fdab8cf8a84d6cb5351156ceb9.png"
+    },
+    {
+        "name": "普賢",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F69263dd6b825645d801d3ce96c31e69b.png"
+    },
+    {
+        "name": "王妃人",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa9fc2eaca1aaade5fb225efd8dbacba5.png"
+    },
+    {
+        "name": "胡喜美",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fbf33facf5717d9280ab13abdb14fef4f.png"
+    },
+    {
+        "name": "趙紅明",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fbade7d76988f2f22702c060b09b3a24c.png"
+    },
+    {
+        "name": "鬼刃忍シロガネ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F017ef7d4973591b5f291b7f8d1c0e46d.png"
+    },
+    {
+        "name": "学園裏遊戯シロガネ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fi.gyazo.com%2Fdcd34f965c06333ccc8931000b477e15.png"
+    },
+    {
+        "name": "天穿の槍士フィロ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb509992e8d31d959c0deb50ea7d2c828.png"
+    },
+    {
+        "name": "闇炎の魔将イルムガルト",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fce8d5dbccbd6def788c805917251846a.png"
+    },
+    {
+        "name": "深潭の魔将アブグルント",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F86397ddb9597ab1379c66a5517c99920.png"
+    },
+    {
+        "name": "炎天の魔将ヤハール",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fdc44f0440789f497f8a483a071889f1d.png"
+    },
+    {
+        "name": "炎天の花嫁ヤハール",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F518681018b0675a5f8514955c203b3fe.png"
+    },
+    {
+        "name": "犬神ツムジ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff81039c469869a25a03c0644f6becf2f.png"
+    },
+    {
+        "name": "炎の厨師タオパオ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fafbb7911272cdcad5ed5351ca3d9e24b.png"
+    },
+    {
+        "name": "魔界料理人キホル",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F77239712817a43bfbe500508bafd1628.png"
+    },
+    {
+        "name": "帝国料理人ユッタ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffc889165a2d07a46c4a19833a5352d78.png"
+    },
+    {
+        "name": "山姫アヅミ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fdcb656c17f57c7f020907c93530775a1.png"
+    },
+    {
+        "name": "常夜の料理人アシュリン",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F45fe5f049c8dbbf72d66615f843c8c39.png"
+    },
+    {
+        "name": "御節職人アヅミ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F5930908b0fca0096a049a1a4758ae51b.png"
+    },
+    {
+        "name": "暑い夏の料理人ユッタ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fe17af9dc10e156cb3fdb4a2c578f13da.png"
+    },
+    {
+        "name": "悪魔妖術師エフネ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fee8cb2de0b5c0380e68a294bcf073b66.png"
+    },
+    {
+        "name": "悪魔の新春祝いエフネ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F58e097cf690ce70a65cf09c044302a03.png"
+    },
+    {
+        "name": "蒸気騎士ベアッカ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb4ffbd8d0e2cda0cdd93d86e64986d9a.png"
+    },
+    {
+        "name": "蒸気武者ユカリ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F13499d1c78d0888a34f944db71a2e3a4.png"
+    },
+    {
+        "name": "かまいたち金糸雀姉妹",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2005ea3049f406cbafb467386dc355a3.png"
+    },
+    {
+        "name": "かまいたち紫苑姉妹",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F6f9307c5e41fb049218eabb84ec180ad.png"
+    },
+    {
+        "name": "婚礼つむじ風金糸雀姉妹",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F6b7dbf151f8e2fd508dfa631852dfb7a.png"
+    },
+    {
+        "name": "翠玉の深海兵フィーヌ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F1e2e2661f464522854b7469edb4ac472.png"
+    },
+    {
+        "name": "翠玉の温泉兵フィーヌ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F9d4280f2de8d72869f3c6b441b05478c.png"
+    },
+    {
+        "name": "逆戟の勇士カウリオ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F8e3104ce6369ea98c1ec6eb3a7bb9702.png"
+    },
+    {
+        "name": "潜泳騎士セディナ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F1a2c6469fa099e36931ce95df8fa9807.png"
+    },
+    {
+        "name": "海洋遺跡の民ティマ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7abe2a0685046a592d74dd7b827b7ec1.png"
+    },
+    {
+        "name": "背教の騎士アレクシア",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb37e7c93a59e03ab9daa36d7047739f3.png"
+    },
+    {
+        "name": "光剣の神聖騎士デシレア",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F5a6ec67bb9cabfa09b1fdfab9decc66d.png"
+    },
+    {
+        "name": "自動人形ルイン",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffd786ba97035d99387a7afce1302849a.png"
+    },
+    {
+        "name": "夏を知った人形ルイン",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffac1dd1ab1c9ffebd5b49760678f268d.png"
+    },
+    {
+        "name": "飛空戦艦管理頭脳パルセ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2731808f15ea7d91d7f87ab343658313.png"
+    },
+    {
+        "name": "ぬりかべシラヌイ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa12b4644eb19b809253facfd1f98501a.png"
+    },
+    {
+        "name": "祭夜のぬりかべシラヌイ",
+        "url": "https://i.imgur.com/jBDuYIo.png"
+    },
+    {
+        "name": "斬刀付喪神カザキリ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F38a31370479b24413ba6dee89f220767.png"
+    },
+    {
+        "name": "鉄刀付喪神シラハユリ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F84b25f585c168340632ef39f83a7424b.png"
+    },
+    {
+        "name": "戦巫女コウメ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb06418ebd18c9e9185a5004715620977.png"
+    },
+    {
+        "name": "帝国戦巫女カオル",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F868183a248549b3498ef9a70900d0290.png"
+    },
+    {
+        "name": "豪放遊侠フーイェン",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F49db64b863768df2114184c56cc3d3d6.png"
+    },
+    {
+        "name": "武成豪侠フェイロン",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F21eb5ce4665d9a47a0e1801f45ba8c85.png"
+    },
+    {
+        "name": "砂漠の勇士ファルア",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffb4f20f4922b52f80d938b6bc9341530.png"
+    },
+    {
+        "name": "砂漠の傭兵ナシート",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fdf621c975a201e926cffc73fcff21849.png"
+    },
+    {
+        "name": "砂漠の双刃シェラハウト",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F6cfd06d84602eb67f812460beb897011.png"
+    },
+    {
+        "name": "冥界巡衛騎士リチュエ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7db3ca65b71c4573203d3bb49a280448.png"
+    },
+    {
+        "name": "帝国掘削兵ヘーレ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fec43abf24f0e7c06791a3f041fe724be.png"
+    },
+    {
+        "name": "鋼の掘削兵ピーク",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc294ce3efca72337fa47275d042c967c.png"
+    },
+    {
+        "name": "盾騎士レジナレア",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F537de290387c11d11d995bac92719157.png"
+    },
+    {
+        "name": "優しき守護盾イール",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F0df656640d8d7a76a853820248bb083f.png"
+    },
+    {
+        "name": "盾の花嫁レジナレア",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fafd37d57c69c39dab427e76f1812dc9c.png"
+    },
+    {
+        "name": "流浪の断罪者サティン",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb5c5732c7d14f2a0a168c35548366d9f.png"
+    },
+    {
+        "name": "虚月の断罪者リムリィ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F70c3a1f2610dd105250358e69266f561.png"
+    },
+    {
+        "name": "白浜の断罪者リムリィ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F610bcf6e0dabcff707cae970e4889a96.png"
+    },
+    {
+        "name": "萌芽の衛者ダルティエ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F1d9e5d30f2ee7e62c166e173c469efb0.png"
+    },
+    {
+        "name": "銭雷の衛者センカ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F8a7fa26f43704a18cf005385ab518939.png"
+    },
+    {
+        "name": "戦斧の巨人ディタノ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png"
+    },
+    {
+        "name": "紫編の妖糸クローシェ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F29514a2acfd621ce73bbae2a4b76426c.png"
+    },
+    {
+        "name": "深淵を知る者アトナテス",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fe84ff0e0513952a93232d357f37e0fc9.png"
+    },
+    {
+        "name": "万慧を砕く者トゥアン",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F576ea8aecac9103613a9fcea50afdc0f.png"
+    },
+    {
+        "name": "南国女王トゥアン",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffeef9d1f21a3bc5c216d566eef2cc8e5.png"
+    },
+    {
+        "name": "万機の祖たる者アージェ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F8925040a2e0967bc94d408cc76c09f65.png"
+    },
+    {
+        "name": "銀腕を掲げし者トラム",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F16b3febb604a6d7ba44ebe1595b3b763.png"
+    },
+    {
+        "name": "浜辺の看板娘トラム",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F28febdb831cb8321a7e863c559f4730a.png"
+    },
+    {
+        "name": "万刃を担う者アルヴァ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff1e750d3558a9bda3ca1b04fbbaf5447.png"
+    },
+    {
+        "name": "魔導を宿す者ラーワル(プラチナ)",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7a15cc4e7b87e745acebe6ae7d68571d.png"
+    },
+    {
+        "name": "渚の魔導生命体ラーワル",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd48749534d07e9666eb38475f6d7f30e.png"
+    },
+    {
+        "name": "山ン本五郎左衛門",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc0cf32ac2c0d148275c6aae44f8b39ae.png"
+    },
+    {
+        "name": "永夜の始祖たる者リヴン",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F465d90186e7cef10fc70372394f06c17.png"
+    },
+    {
+        "name": "黎明を齎す者ルキファ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2468b0fc82c8578efe9b562c2612db0a.png"
+    },
+    {
+        "name": "暁光を導く者イルドナ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd9fb5b93028a03d1fae7e430f54e2a85.png"
+    },
+    {
+        "name": "獣を統べる者ミルドリス",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F3281fffadcb26df827379565e685e44f.png"
+    },
+    {
+        "name": "戦禍を断つ者ヴィディア",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F17167c9420a056560cbcde48baf4720c.png"
+    },
+    {
+        "name": "大華の母たる者 徐華",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff50537681a26e3ade18cf2802db5924a.png"
+    },
+    {
+        "name": "勝利へ導く者ランシェ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff9183a69aa2d6a0992cfd514e01f8e84.png"
+    },
+    {
+        "name": "光を継ぐ者オーシェン",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F0c8c65082f522d999a5bf9496e0e5fe6.png"
+    },
+    {
+        "name": "頂に座す者アルコゥ",
+        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2b5f2ff218e21fc1e28e764ac4a7cb7b.png"
+    },
 
 
 
