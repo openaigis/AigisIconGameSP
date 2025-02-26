@@ -17,7 +17,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F4408cebe3a50840fe392f32ccc140173.png"
     },
     {
-        "name": "アルティア",
+        "name": "水アルティア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F96bc657f4f467a37a7bbba409cfdd39b.png"
     },
     {
@@ -61,7 +61,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fff2a49a8c45ba2adb444e36c3428c74d.png"
     },
     {
-        "name": "ベルナ",
+        "name": "嫁ベルナ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff4b33811c99b29d34b24ba3afd3f1d26.png"
     },
     {
@@ -81,7 +81,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F27e73a949fce371ef0932d2e0d12a0c1.png"
     },
     {
-        "name": "オリヴィエ",
+        "name": "嫁オリヴィエ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fdf7933621260d26e135522254b0b0886.png"
     },
     {
@@ -97,11 +97,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb85afb0d62efd202cba326eefbec633c.png"
     },
     {
-        "name": "シルヴィア",
+        "name": "水シルヴィア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff5ca4bc0ea3693e8832a2690b6c4dd83.png"
     },
     {
-        "name": "シルヴィア",
+        "name": "正月シルヴィア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F20736a4828df8195f301a588d3d4e5b8.png"
     },
     {
@@ -109,7 +109,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fbdf6bba3a26ffb6aa1380bd7f1dc7b29.png"
     },
     {
-        "name": "カルマ",
+        "name": "秋カルマ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2ea095ab45c5d0fbe587592ed47690c0.png"
     },
     {
@@ -125,7 +125,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F8e3d7f9d814573592f34747715d559f7.png"
     },
     {
-        "name": "レオーネ",
+        "name": "水レオーネ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffa216029f17ef31df76c01bb74c4f192.png"
     },
     {
@@ -137,7 +137,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F52b175ce0fdcf3282d52ff37c53a533c.png"
     },
     {
-        "name": "ヴルム",
+        "name": "水ヴルム",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff8f730d1b203a225a4e669134dceb8f9.png"
     },
     {
@@ -153,7 +153,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F91226ca4536e9d0c91ad3f4cbdd9736e.png"
     },
     {
-        "name": "エルドラ",
+        "name": "正月エルドラ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F5c7069d423f3ef5c67dba9a865742c12.png"
     },
     {
@@ -169,7 +169,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F23e384f852c18536f9984cbce4585546.png"
     },
     {
-        "name": "ヒバリ",
+        "name": "Vヒバリ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F63471c30e332004e4af6f167a8cf1f27.png"
     },
     {
@@ -185,7 +185,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fceb6c894088ea0d9be152c442f8a16bb.png"
     },
     {
-        "name": "チヨメ",
+        "name": "湯チヨメ",
         "url": "https://i.imgur.com/CFO8V80.png"
     },
     {
@@ -201,7 +201,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F1ea8ae0a6f0b4db0a7c2a21a06b215fe.png"
     },
     {
-        "name": "コーネリア",
+        "name": "冬コーネリア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc177ee5f1bda3701b09e1541d111e7cc.png"
     },
     {
@@ -209,15 +209,15 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Facb2d61d5a5927634e74940d80e6ddcd.png"
     },
     {
-        "name": "ヘイオス",
+        "name": "冬ヘイオス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F31290c2c7caddc604093a4d6c8ac2b01.png"
     },
     {
-        "name": "コーネリア",
+        "name": "学コーネリア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7d2a80dcf1dceffa725f8d30f8dfc40e.png"
     },
     {
-        "name": "コーネリア",
+        "name": "水コーネリア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd359d082513dfda35104fcfb9281aab3.png"
     },
     {
@@ -229,7 +229,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd11f18bb02a02b7c707058debbfe8f4d.png"
     },
     {
-        "name": "アリス",
+        "name": "Vアリス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fafbd2bc71589e546482d85bd6735236f.png"
     },
     {
@@ -237,11 +237,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F9e4aa67b948d8e8596ff9eb23ed9fd47.png"
     },
     {
-        "name": "マツリ",
+        "name": "正月マツリ",
         "url": "https://i.imgur.com/kKGj3cL.png"
     },
     {
-        "name": "マツリ",
+        "name": "Vマツリ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F634c42d52309703e91b4c886624932ee.png"
     },
     {
@@ -253,7 +253,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa2f6d57c6357a8749d3228038513c7df.png"
     },
     {
-        "name": "ソフィー",
+        "name": "Vソフィー",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa4a01d6dbf2eef99b6952ea8f95d0f6a.png"
     },
     {
@@ -281,15 +281,15 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F48890c3b1c350c826001979e1ad6ebbb.png"
     },
     {
-        "name": "キュウビ",
+        "name": "水キュウビ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fe17a27cfed435302643245b63026188c.png"
     },
     {
-        "name": "カヨウ",
+        "name": "正月カヨウ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa51e3d2bd8277f54f11f9c84a18c5795.png"
     },
     {
-        "name": "キュウビ",
+        "name": "学キュウビ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F497eaf7e5c9e394d5054f8f7e77b68ee.png"
     },
     {
@@ -297,7 +297,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb02bfbf70413fe1647314f9e95a3b67d.png"
     },
     {
-        "name": "エクス",
+        "name": "Vエクス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F57cb1f9799d22af28fcd7710ab48fcde.png"
     },
     {
@@ -313,7 +313,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F204b6c6cb157f05933c5cfd3ba39d289.png"
     },
     {
-        "name": "シルセス",
+        "name": "嫁シルセス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7939e1980728c306a84b68e76b165104.png"
     },
     {
@@ -321,7 +321,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fdaf5659ce36f92d302ee6296a26fd154.png"
     },
     {
-        "name": "ティファ",
+        "name": "冬ティファ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fe78e7e09c7b59b50b9f1b14e852d47d5.png"
     },
     {
@@ -333,7 +333,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fi.gyazo.com%2Fe686cdba17826bdde166fc22a15b4d0b.png"
     },
     {
-        "name": "エメルダ",
+        "name": "Vエメルダ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2e09a1efb228de8d47591607073c7e8b.png"
     },
     {
@@ -349,7 +349,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F87a5f30a99d6079b71ccf34c3e296ce6.png"
     },
     {
-        "name": "セーラ",
+        "name": "水セーラ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F770fe92d4f7bc2e9f29fa89a5e5f9a22.png"
     },
     {
@@ -357,7 +357,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fbc72c51357bb7a097669cf16ca2ba60f.png"
     },
     {
-        "name": "セーラ",
+        "name": "冬セーラ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa0e11ac3c2bbd82a0638af2c337d75b6.png"
     },
     {
@@ -365,11 +365,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F5a511901e820d474378f4c695396a728.png"
     },
     {
-        "name": "エマ",
+        "name": "湯エマ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F8e3d0bd26bb2742997c0537e2eecce64.png"
     },
     {
-        "name": "エマ",
+        "name": "水エマ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd7718c6f32d2c7e19c590a46c5be5dae.png"
     },
     {
@@ -377,7 +377,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb2b9480d34b2ae5c7e57484115ed849f.png"
     },
     {
-        "name": "ジークリンデ",
+        "name": "水ジークリンデ",
         "url": "https://i.imgur.com/9XQB4ss.png"
     },
     {
@@ -389,7 +389,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc7b0eeb8f530e5edca9fe35963d8c561.png"
     },
     {
-        "name": "ナタク",
+        "name": "水ナタク",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa31f97a20e0e2ec68f9a300ec0df8459.png"
     },
     {
@@ -401,7 +401,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F4d7487d90796a1f0c38b58868243b501.png"
     },
     {
-        "name": "メフィスト",
+        "name": "水メフィスト",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa557bd02160a414b67e808e267c54721.png"
     },
     {
@@ -421,7 +421,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff31a283fbceb438636ead3626c1cde61.png"
     },
     {
-        "name": "アンブレ",
+        "name": "秋アンブレ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2cb3097732c88f3538ebbc08b5d6710f.png"
     },
     {
@@ -441,7 +441,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Faa27a04c8cc75661bc1836f1c5554586.png"
     },
     {
-        "name": "鬼刃姫",
+        "name": "正月鬼刃姫",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F9d24189d6af6d838c67bb90a1faa5454.png"
     },
     {
@@ -449,7 +449,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fbc61f27043a5bfd5dd1a1eb892173618.png"
     },
     {
-        "name": "ディアナ",
+        "name": "水ディアナ",
         "url": "https://i.imgur.com/kVoSsHW.png"
     },
     {
@@ -461,7 +461,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F0eb5eff838ca80578961b599c9ee8861.png"
     },
     {
-        "name": "ドワーフの姫ティニー",
+        "name": "ティニー",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2ffbe533d70c7c9156a2b59d6e59d4a9.png"
     },
     {
@@ -473,11 +473,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2da8c6237bd3fa51820699760d76f2ee.png"
     },
     {
-        "name": "アナトリア",
+        "name": "水アナトリア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F71067f4e73ee939e037dfcb058edc4a3.png"
     },
     {
-        "name": "アナトリア",
+        "name": "湯アナトリア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F73a5a3ec417d0bda9817db4aaa535b4f.png"
     },
     {
@@ -489,11 +489,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F22dcd5ef38988fc15dd4e52f93737439.png"
     },
     {
-        "name": "フーロン",
+        "name": "嫁フーロン",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F6bb1b4ee2b151f55485cd30b8e44a89a.png"
     },
     {
-        "name": "フーロン",
+        "name": "浴衣フーロン",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F9948394e50a6533ef6c8ab2c201d20a9.png"
     },
     {
@@ -501,11 +501,11 @@ let images = [
         "url": "https://i.imgur.com/ISycayC.png"
     },
     {
-        "name": "レミィ",
+        "name": "浴衣レミィ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fca43f95a2075711f950502108c3c67ff.png"
     },
     {
-        "name": "レミィ",
+        "name": "秋レミィ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F1934d944b6d042036f56a74af23916f4.png"
     },
     {
@@ -517,7 +517,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F4cba8add0c6fec832cd3a34dfbed3330.png"
     },
     {
-        "name": "ランヒルド",
+        "name": "兎ランヒルド",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7209e1e960079e358384103932bbe139.png"
     },
     {
@@ -525,11 +525,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc783b8ec472497e6ddf0fd112fb4b230.png"
     },
     {
-        "name": "クーコ",
+        "name": "浴衣クーコ",
         "url": "https://i.imgur.com/lmFfrYM.png"
     },
     {
-        "name": "クーコ",
+        "name": "秋クーコ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fbce9ebc75fd9fa077baa43ea497a3d95.png"
     },
     {
@@ -541,7 +541,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff3305a93e021c530e4393e770552eac7.png"
     },
     {
-        "name": "アデライド",
+        "name": "Vアデライド",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc4eb01ae8f902fd3ae6eca1276cf979a.png"
     },
     {
@@ -561,7 +561,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffd16da3c6c3979e46ad249e4a368f0d7.png"
     },
     {
-        "name": "清源妙道真君",
+        "name": "水清源妙道真君",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F643db3737b326f53f42cb3fe34c10c3b.png"
     },
     {
@@ -573,7 +573,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F16c96e99a02374fc1c0b8c89d23444ec.png"
     },
     {
-        "name": "聞忠",
+        "name": "正月聞忠",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fe49ef3372be7fd753bc0aeb3b8b93b92.png"
     },
     {
@@ -581,7 +581,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb5e084403666a42b9ef22efb3461730a.png"
     },
     {
-        "name": "シャディア",
+        "name": "正月シャディア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F588be2405cfa384c26246ff2c7d0fa64.png"
     },
     {
@@ -605,7 +605,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F34d032995d3b4e6b4d3e3119ce190c44.png"
     },
     {
-        "name": "ハルモニア",
+        "name": "冬ハルモニア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F07c0af1af1384e31f03328023c252f15.png"
     },
     {
@@ -621,7 +621,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F89354389669a2df773c9846f8049a817.png"
     },
     {
-        "name": "オーガスタ",
+        "name": "Vオーガスタ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F8723c836af225750134c73b480f8ba60.png"
     },
     {
@@ -633,7 +633,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffdd6a4f0bb7024e8852b49724db55d34.png"
     },
     {
-        "name": "エスネア",
+        "name": "学エスネア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F256043525b301c46bf7a7a8eb833a090.png"
     },
     {
@@ -649,7 +649,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F0173d01ae07e0ddf9ad69eba5c86b181.png"
     },
     {
-        "name": "ハリナ",
+        "name": "水ハリナ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb8e83c2246fa2048fdf0cf267e6bfdd1.png"
     },
     {
@@ -713,7 +713,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F69d1386c7a980bfb507f163377093315.png"
     },
     {
-        "name": "アラン",
+        "name": "祭アラン",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F3c658123884b42173563ec52926972cd.png"
     },
     {
@@ -721,7 +721,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7d0f7b530fa27c0b7ca8d0dd542a63d0.png"
     },
     {
-        "name": "アラン",
+        "name": "正月アラン",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fe55125409f628db497face7a06320b3a.png"
     },
     {
@@ -745,7 +745,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F67f1eebdd4bd48cfd896699ea37fbcf3.png"
     },
     {
-        "name": "ティルト",
+        "name": "水ティルト",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F1f61da4a28bb889cfa77bd484481be26.png"
     },
     {
@@ -781,7 +781,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fba1064137014ac82989a565c24d479d8.png"
     },
     {
-        "name": "元始天尊",
+        "name": "湯元始天尊",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffe5c2f8c2a61d03e575dc2a33ebdd74b.png"
     },
     {
@@ -841,79 +841,71 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fe2ede8d0c57add347e893500cab9aee4.png"
     },
     {
-        "name": "アトナテス",
+        "name": "黒アトナテス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F72623d9fab6064167900a9f4faf18fd6.png"
     },
     {
-        "name": "トゥアン",
+        "name": "黒トゥアン",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F692904a9673120c41574b6a6135c0324.png"
     },
     {
-        "name": "アージェ",
+        "name": "黒アージェ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb5d14420d70418597fa7e643208628f3.png"
     },
     {
-        "name": "トラム",
+        "name": "黒トラム",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F576faec256eb0a46660bf4a6ab7a5378.png"
     },
     {
-        "name": "アルヴァ",
+        "name": "黒アルヴァ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F5554ad6e49cf437ec50aedd0fb9a69ea.png"
     },
     {
-        "name": "ラーワル",
+        "name": "黒ラーワル",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F331fb353130311f480b9231f661a101d.png"
     },
     {
-        "name": "ラーワル",
-        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F331fb353130311f480b9231f661a101d.png"
-    },
-    {
-        "name": "ラーワル",
-        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F331fb353130311f480b9231f661a101d.png"
-    },
-    {
-        "name": "山ン本五郎左衛門",
+        "name": "黒山ン本五郎左衛門",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc8186a8edfda28a42c9cef264998b53b.png"
     },
     {
-        "name": "リヴン",
+        "name": "黒リヴン",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2bbc831e145b647dffc53d5597581ff6.png"
     },
     {
-        "name": "ルキファ",
+        "name": "黒ルキファ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd94cbc54ddf7827c68eec49b67a19a6b.png"
     },
     {
-        "name": "イルドナ",
+        "name": "黒イルドナ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F24ed378182b373a538cfd16fd7642e9d.png"
     },
     {
-        "name": "ミルドリス",
+        "name": "黒ミルドリス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc624fe16cee263aff35324dc8497bd0e.png"
     },
     {
-        "name": "ヴィディア",
+        "name": "黒ヴィディア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F9588afcdec893b1f289936f3f158a897.png"
     },
     {
-        "name": "徐華",
+        "name": "黒徐華",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fcfc546d4f25bfd3b64a162ab5c7358cf.png"
     },
     {
-        "name": "ランシェ",
+        "name": "黒ランシェ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fi.gyazo.com%2Fcb6baed22091d5d45e92d0ca8e28402a.png"
     },
     {
-        "name": "オーシェン",
+        "name": "黒オーシェン",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F203d9ed09e6283d0a7f900bba1271c9e.png"
     },
     {
-        "name": "アルコゥ",
+        "name": "黒アルコゥ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F192d06147ead44672230e85fe3804696.png"
     },
     {
-        "name": "伏綺",
+        "name": "黒伏綺",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Faea33d031df621fa1afde26aac9fac31.png"
     },
     {
@@ -932,15 +924,15 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff66a5321d8cad7ef49868906191d1424.png"
     },
     {
-        "name": "ナナリー",
+        "name": "浴衣ナナリー",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2fc34d2fecf4fc9270817bbdb179ce26.png"
     },
     {
-        "name": "ナナリー",
+        "name": "嫁ナナリー",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F744eef1af36c74324a56dfbbaff8e082.png"
     },
     {
-        "name": "ナナリー",
+        "name": "休ナナリー",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7b138a2b27dc3e2e2db26bcc29b58d29.png"
     },
     {
@@ -960,11 +952,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc5a3c853705ba4462bf5828fd7204ca2.png"
     },
     {
-        "name": "テュト",
+        "name": "冬テュト",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F87d85eddfc22193481651e0c46154d3b.png"
     },
     {
-        "name": "テュト",
+        "name": "水テュト",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7a1271467b4e3479961e5ef391eca367.png"
     },
     {
@@ -984,7 +976,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2e2a9c60ce9860d56a28f55a3c472970.png"
     },
     {
-        "name": "イリス",
+        "name": "正月イリス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7544c0c56b02e705fe7da4b5939b0d12.png"
     },
     {
@@ -992,7 +984,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F5b971f2bf005c87e81ed1a8a85a28ae3.png"
     },
     {
-        "name": "アウローラ",
+        "name": "水アウローラ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F1e79bd76790ffb538dbe8d7323a76aaa.png"
     },
     {
@@ -1000,7 +992,7 @@ let images = [
         "url": "https://i.imgur.com/BE36u9W.png"
     },
     {
-        "name": "リアナ",
+        "name": "浴衣リアナ",
         "url": "https://i.imgur.com/53LT09A.png"
     },
     {
@@ -1008,7 +1000,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F1d919be55c3116657c9514761ec52060.png"
     },
     {
-        "name": "デスピア",
+        "name": "秋デスピア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F73b61659c1bcb397aa94dd4e8fa9b017.png"
     },
     {
@@ -1028,11 +1020,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fed2670ee7a608e8bec1a088dff292623.png"
     },
     {
-        "name": "デューオ",
+        "name": "冬デューオ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff34d1de626f8c78dd3530e7d3b6c44db.png"
     },
     {
-        "name": "デューオ",
+        "name": "浴衣デューオ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fdf9c0436cde65b72184638d126b3e5dd.png"
     },
     {
@@ -1052,7 +1044,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7e05b84176cb8497985dcab799eb5063.png"
     },
     {
-        "name": "クルス",
+        "name": "冬クルス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F395d98ac0c2b52bb3ffb96f2592e1283.png"
     },
     {
@@ -1076,7 +1068,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F161aa7a5f87f98db6875abffb75a0b44.png"
     },
     {
-        "name": "エターナー",
+        "name": "嫁エターナー",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F9c579433cfb973ad01237cbbc92e97c0.png"
     },
     {
@@ -1084,7 +1076,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb7cdcad5812d2fe1974d082cf6a626c9.png"
     },
     {
-        "name": "アイシャ",
+        "name": "学アイシャ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fca455a835a12333a220704caefbfa916.png"
     },
     {
@@ -1092,7 +1084,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F3283ec681b8b1cf0a4dca393037ba94a.png"
     },
     {
-        "name": "ミコト",
+        "name": "水ミコト",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F0187d6448f744cecbd99cc642e3c75db.png"
     },
     {
@@ -1100,7 +1092,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7d578d08b32dcc55fdc78dad2adbba14.png"
     },
     {
-        "name": "ファルネ",
+        "name": "嫁ファルネ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F3f2d026a87adea2369ed3df0b49923f0.png"
     },
     {
@@ -1108,11 +1100,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fdfbac5a5492279dcd6b4d2068f8442af.png"
     },
     {
-        "name": "リンネ",
+        "name": "嫁リンネ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fe9f95f77cdc9884e54e5c9cc522bb993.png"
     },
     {
-        "name": "リンネ",
+        "name": "水リンネ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F24481c674f4c1a1c6eadc49d7ac8518c.png"
     },
     {
@@ -1128,31 +1120,31 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F35f3cf5f369b0b2d401eb0c73937d393.png"
     },
     {
-        "name": "アンナ",
+        "name": "通常アンナ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fbf7b3ca062e1c4541a55af3c91438105.png"
     },
     {
-        "name": "アンナ",
+        "name": "給アンナ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F66750fa8170083520cb0460bf55c1ee9.png"
     },
     {
-        "name": "アンナ",
+        "name": "水アンナ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F9d4e38484f6566d84b6f0b41a18a8ccf.png"
     },
     {
-        "name": "アンナ",
+        "name": "軍アンナ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F928af3dda4473f7487a6969d8fe4690e.png"
     },
     {
-        "name": "アンナ",
+        "name": "アイドルアンナ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F489614535e550e60a42b3b35f75b45af.png"
     },
     {
-        "name": "アンナ",
+        "name": "正月アンナ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F67ba19f175cb9eaa90d9efa988d9111a.png"
     },
     {
-        "name": "アンナ",
+        "name": "Vアンナ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F5f019d75bd38c4ee9c479629bdee17bc.png"
     },
     {
@@ -1164,7 +1156,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa501c7db684158917f4321dea0c495e6.png"
     },
     {
-        "name": "メルアビス",
+        "name": "水メルアビス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F8dd4b60d1e377ead0097cd9e2b7d6a3e.png"
     },
     {
@@ -1172,7 +1164,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fbb024640de842473e2bff65108570cbe.png"
     },
     {
-        "name": "トワ",
+        "name": "学トワ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F90b478d3c08a552beeeace4934d984a6.png"
     },
     {
@@ -1184,7 +1176,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F4db70b09bd5187d5ff5a5d77f581dfb4.png"
     },
     {
-        "name": "フィオレ",
+        "name": "湯フィオレ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F82c34739a35040fc9556b2e5cd87a2cc.png"
     },
     {
@@ -1200,7 +1192,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F551dfdcf64fedb9ac7840259269d2a18.png"
     },
     {
-        "name": "ロヴィニア",
+        "name": "学ロヴィニア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ffdac4cc997c71d62d2eab3b99687da75.png"
     },
     {
@@ -1212,7 +1204,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb0859db894bee1b9128d83bf61fe86f4.png"
     },
     {
-        "name": "オロチヒメ",
+        "name": "正月オロチヒメ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff6018331e18ed31a886831491ad95d07.png"
     },
     {
@@ -1236,7 +1228,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F3f4b361ece4b79e06b9c9f52422470c5.png"
     },
     {
-        "name": "アンリ",
+        "name": "学アンリ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F8b6beeabaea78da953a4f3e5e17d8380.png"
     },
     {
@@ -1244,7 +1236,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd1f65431440195beecdee8292b2d9587.png"
     },
     {
-        "name": "ディエーラ",
+        "name": "嫁ディエーラ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa3e44d3ae834aea8dce0964198aba99e.png"
     },
     {
@@ -1256,7 +1248,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F3cfb515e385dd6a7141e78b33fad773f.png"
     },
     {
-        "name": "ソシエ",
+        "name": "秋ソシエ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F617a99a1efff27436f9aa6709e3b1c99.png"
     },
     {
@@ -1264,15 +1256,15 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F55e9a29d62ae972fbffd2dad7d540375.png"
     },
     {
-        "name": "ラピス",
+        "name": "水ラピス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F983cb07aa144abb40da179d5a51ccc9d.png"
     },
     {
-        "name": "ラピス",
+        "name": "正月ラピス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd987424ca7cf173e82c9cfc263c2faee.png"
     },
     {
-        "name": "ラピス",
+        "name": "冬ラピス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F9fd28eac8f992f358d2059cfe8802d76.png"
     },
     {
@@ -1284,7 +1276,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7f18689e0eded1e22d7ac82b9a65ac92.png"
     },
     {
-        "name": "ニーヴ",
+        "name": "兎ニーヴ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F447bcbbdecbae835d9edc8aabd14733d.png"
     },
     {
@@ -1292,7 +1284,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F29e95ee781302f72ac7b93c21e259e5e.png"
     },
     {
-        "name": "コハル",
+        "name": "秋コハル",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F1d083830c24b6d016f63e035e59817f1.png"
     },
     {
@@ -1300,7 +1292,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd18477bf732138c85cc6f294a42218b1.png"
     },
     {
-        "name": "リズリー",
+        "name": "湯リズリー",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F1561f39e026f0d394d606ac3a0fadd3a.png"
     },
     {
@@ -1308,7 +1300,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc8d7cd10b6c4ae473374c497f84130bd.png"
     },
     {
-        "name": "スピリア",
+        "name": "浴衣スピリア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F3d0f425221e3c36898824a9e7642429c.png"
     },
     {
@@ -1320,7 +1312,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F13056467ecdab6e5fdffdd1e0f557a03.png"
     },
     {
-        "name": "ツキコ",
+        "name": "水ツキコ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F18159a3bf2750171f18b03dde1500e98.png"
     },
     {
@@ -1328,11 +1320,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fff84c1b3b32052cb4cddec663044bde2.png"
     },
     {
-        "name": "エレオノーラ",
+        "name": "水エレオノーラ",
         "url": "https://i.imgur.com/SYWBn3F.png"
     },
     {
-        "name": "エレオノーラ",
+        "name": "兎エレオノーラ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fi.gyazo.com%2F8f22faa815af64dfb2429e76626abde6.png"
     },
     {
@@ -1344,7 +1336,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F093694f155e23fa8992901d28b52858e.png"
     },
     {
-        "name": "アレイダ",
+        "name": "水アレイダ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb367527488b1f641042afb6baa971a35.png"
     },
     {
@@ -1360,11 +1352,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F87ecc9475c2cfda65dcea21d97e1a4c8.png"
     },
     {
-        "name": "グリム",
+        "name": "正月グリム",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F17532b9cdd9299a57f80bc31be906482.png"
     },
     {
-        "name": "グリム",
+        "name": "学グリム",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F42177cc44cea1492b41228c035f8e982.png"
     },
     {
@@ -1384,7 +1376,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F60da2973019042920470d1601c0261c9.png"
     },
     {
-        "name": "コマ",
+        "name": "嫁コマ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F53903c1052c2120f7b3862e8017105ba.png"
     },
     {
@@ -1396,11 +1388,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff97a9eeeb783fd406b26aaf66ee704e4.png"
     },
     {
-        "name": "ヘカティエ",
+        "name": "水ヘカティエ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fefe3cc0dcc2a7570a7f420d06a69fee8.png"
     },
     {
-        "name": "メシナ",
+        "name": "正月メシナ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb33cff93b4aef76b9a9a112e7a8834c8.png"
     },
     {
@@ -1416,7 +1408,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7d280ae34746935ee5abf7d24c408eed.png"
     },
     {
-        "name": "ラタトスク",
+        "name": "Vラタトスク",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F54404511c1194c8028bf890bdb2f544e.png"
     },
     {
@@ -1440,7 +1432,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F970b58a30c5f1c5f11b5a2abc98af7d8.png"
     },
     {
-        "name": "イーファ",
+        "name": "正月イーファ",
         "url": "https://i.imgur.com/Xi0uEep.png"
     },
     {
@@ -1448,7 +1440,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F5814ecade11628eeff414fae29c3c885.png"
     },
     {
-        "name": "エンジュ",
+        "name": "嫁エンジュ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb855954cbf96ccf8f1d515d52b875d87.png"
     },
     {
@@ -1456,11 +1448,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fi.gyazo.com%2F05a25bdcfe4ca2187ab836105517d362.png"
     },
     {
-        "name": "アスバール",
+        "name": "水アスバール",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F31104925219054a7aad688d0ea465382.png"
     },
     {
-        "name": "アスバール",
+        "name": "祭アスバール",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F24c8b99934a05cf1d2018206e576ad42.png"
     },
     {
@@ -1504,35 +1496,35 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc2b8038901e10e413f90fff78429c778.png"
     },
     {
-        "name": "ソラス",
+        "name": "黒ソラス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F62938e59d2e1391e4868c3a1491853bf.png"
     },
     {
-        "name": "ユージェン",
+        "name": "黒ユージェン",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F075ccdb1ab73ac8415b0fbd40beba1b4.png"
     },
     {
-        "name": "サナラ",
+        "name": "黒サナラ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F8c28767f37feaf0fe34645a17b3692a3.png"
     },
     {
-        "name": "アンブローズ",
+        "name": "黒アンブローズ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc263cce3e384d1a8f6bf904a49c4a6ef.png"
     },
     {
-        "name": "ホルテウス",
+        "name": "黒ホルテウス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F16dedb432a1646191196a286656b7a77.png"
     },
     {
-        "name": "イムラウ",
+        "name": "黒イムラウ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Ff6275e155c48f74b73647ec3d4006ccc.png"
     },
     {
-        "name": "モルフェサ",
+        "name": "黒モルフェサ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7beaae0e10adbe023cf83e7fedf35f7b.png"
     },
     {
-        "name": "イヴリール",
+        "name": "黒イヴリール",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F4629b26aebcfd802c6c28b1bd6252435.png"
     },
     {
@@ -1552,7 +1544,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb5aaf18c6971aad24b10bfc500b6ccc8.png"
     },
     {
-        "name": "クレール",
+        "name": "浴衣クレール",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa7fa5d351dbf48e9bd1b2329aae85246.png"
     },
     {
@@ -1560,7 +1552,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F441f4c4d1420355a82b29f49c7254f5a.png"
     },
     {
-        "name": "パリオス",
+        "name": "秋パリオス",
         "url": "https://i.imgur.com/uC7RfHV.png"
     },
     {
@@ -1568,7 +1560,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F558b65c6545d16da8b68ec40a811f3be.png"
     },
     {
-        "name": "ラシティ",
+        "name": "嫁ラシティ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F842a294a499ecd18454373b460030eb9.png"
     },
     {
@@ -1576,7 +1568,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F7621fd7b04701c9e2146a0aa69cb2419.png"
     },
     {
-        "name": "レナータ",
+        "name": "嫁レナータ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F69dd26ab21a33136ef9d7b98006e9eef.png"
     },
     {
@@ -1592,15 +1584,15 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F81ec1b72258b9da16f8556fdf3b0393b.png"
     },
     {
-        "name": "エフトラ",
+        "name": "黒エフトラ",
         "url": "https://i.imgur.com/OF2Afm7.png"
     },
     {
-        "name": "エフトラ",
+        "name": "黒最終エフトラ",
         "url": "https://i.imgur.com/68Mb3p6.png"
     },
     {
-        "name": "フィネス",
+        "name": "黒フィネス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F26ce3ef905f6009f6bca48b7c0e9079f.png"
     },
 
