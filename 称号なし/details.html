@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ゲーム詳細</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* 詳細画面全体のスタイル */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0; /* 明るいグレー背景 */
+        }
+
+        /* 詳細コンテナ */
+        #details-container {
+            background-color: #f9f9f9; /* ほんのり明るいグレー */
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 500px; /* 横幅を500px以内に制限 */
+            text-align: center;
+        }
+
+        h1 {
+            margin-bottom: 15px;
+            font-size: 22px;
+            color: #333;
+        }
+
+        p {
+            font-size: 14px;
+            color: #555;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin-bottom: 20px;
+        }
+
+        li {
+            font-size: 14px;
+            color: #444;
+            padding: 10px;
+            margin: 8px 0;
+            background-color: #f1f1f1; /* ちょっと薄いグレー */
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+
+        li strong {
+            color: #007BFF;
+        }
+
+        #back-button {
+            padding: 12px 24px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        #back-button:hover {
+            background-color: #0056b3;
+        }
+
+        /* レスポンシブデザイン */
+        @media (max-width: 600px) {
+            #details-container {
+                width: 90%;
+                max-width: 100%;
+                padding: 15px;
+            }
+
+            h1 {
+                font-size: 20px;
+            }
+
+            p, li {
+                font-size: 13px;
+            }
+
+            #back-button {
+                font-size: 14px;
+                padding: 10px 20px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <div id="details-container">
+        <h1>ゲーム詳細</h1>
+        <p>このゲームでは、3つのモードが選べます:</p>
+        <ul>
+            <li><strong>変更事項</strong> - 基本的にはほぼ同じですが、キャラ名から称号っぽいものを抜いてます。</li>
+            <li><strong>90秒トライアル</strong> - 持ち時間は90秒で、誤答ペナルティは1秒です。</li>
+            <li><strong>無限チャレンジ</strong> - 持ち時間は30秒ですが、正解するごとに3秒増えるようになります。ただし10回ごとに増える量は減ります。持ち時間の最大は90秒。</li>
+            <li><strong>ワンミス終了モード</strong> - 増える量が10秒固定になります。ただしワンミスでゲーム終了です。持ち時間の最大は60秒。被ることはないはずなので、問題が尽きたら終了です。多分870問くらい？　私には難易度が高く動作確認できていません。設定上は残り10枚未満になったらゲーム終了です。</li>
+        </ul>
+        <button id="back-button">戻る</button>
+    </div>
+
+    <script>
+        document.getElementById('back-button').addEventListener('click', function() {
+            window.history.back(); // 戻るボタンで前のページに戻る
+        });
+    </script>
+</body>
+</html>

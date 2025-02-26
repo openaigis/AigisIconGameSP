@@ -1,0 +1,271 @@
+/* ゲーム画面のスタイル */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(135deg, #f0f4f8 0%, #d9e2ec 100%);
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#game-info {
+    margin-bottom: 30px;
+}
+
+#game-info p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+    color: #333;
+}
+
+#target-name {
+    font-size: 1.8rem;
+    margin: 20px 0;
+    color: #333;
+}
+
+#image-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 100px); /* 3列に変更 */
+    grid-template-rows: repeat(3, 100px);    /* 3行に変更 */
+    gap: 15px;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 500px;  /* 最大幅を調整 */
+}
+
+#image-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    border: 3px solid white;
+    border-radius: 15px;
+    transition: border-color 0.3s;
+}
+
+#image-grid img:hover {
+    border-color: blue;
+    box-shadow: 0 0 10px blue;
+}
+
+/* 正解時のエフェクト */
+#image-grid img.correct {
+    border-color: green;
+    animation: glow-green 0.5s ease-in-out;
+    transform: scale(1.1);
+}
+
+@keyframes glow-green {
+    0% {
+        box-shadow: 0 0 5px green, 0 0 10px green, 0 0 15px green;
+    }
+    50% {
+        box-shadow: 0 0 10px green, 0 0 20px green, 0 0 30px green;
+    }
+    100% {
+        box-shadow: 0 0 5px green, 0 0 10px green, 0 0 15px green;
+    }
+}
+
+/* 間違い時のエフェクト */
+#image-grid img.incorrect {
+    border-color: red;
+    animation: shake 0.5s ease-in-out;
+    transform: scale(0.9);
+}
+
+@keyframes shake {
+    0% {
+        transform: translateX(0);
+    }
+    25% {
+        transform: translateX(-2px);
+    }
+    50% {
+        transform: translateX(2px);
+    }
+    75% {
+        transform: translateX(-2px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+/* ゲーム終了時の赤い枠 */
+#image-grid img.game-over {
+    border-color: red;
+    animation: glow-red 1s ease-out forwards;
+}
+
+@keyframes glow-red {
+    0% {
+        box-shadow: 0 0 10px red, 0 0 20px red, 0 0 30px red;
+    }
+    100% {
+        box-shadow: 0 0 20px red, 0 0 30px red, 0 0 40px red;
+    }
+}
+
+/* ボタンのスタイル */
+button {
+    margin-top: 20px;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+/* ライフポイントのスタイル */
+#life {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ff0000;
+    margin-top: 20px;
+}
+
+/* ゲーム結果画面のスタイル */
+#score-container {
+    background: #ffe0b2;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 40px;
+    max-width: 300px;
+    margin: 50px auto;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#score-info {
+    background: none;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: none;
+}
+
+#score-info p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+    color: #333;
+}
+
+#exit-button {
+    margin-top: 20px;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+#exit-button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+/* ライフポイントのゲージの外枠 */
+#life-bar-container {
+    width: 300px;  /* 最大幅を固定 */
+    height: 30px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 20px auto;  /* 中央寄せ */
+    overflow: hidden;
+    border: 2px solid #aaa;
+    position: relative; /* ゲージの重なり用 */
+}
+
+/* 赤いゲージ（通常のライフポイント） */
+#life-bar-red {
+    height: 100%;
+    background-color: #ff0000;
+    width: 100%; /* 初期は100%（ライフ最大） */
+    border-radius: 10px;
+    transition: width 0.5s ease-in-out;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* 青いゲージ（ライフポイントが20を超えた分） */
+#life-bar-blue {
+    height: 100%;
+    background-color: #007bff;
+    width: 0%; /* 初期は0（表示なし） */
+    border-radius: 10px;
+    transition: width 0.5s ease-in-out;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* オレンジゲージのスタイル */
+#life-bar-orange {
+    height: 100%;
+    background-color: orange;
+    width: 0%; /* 初期は0% */
+    border-radius: 10px;
+    transition: width 0.5s ease-in-out;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#life-points-container {
+    display: none;
+}
+
+#stats {
+    font-size: 1.4rem;       /* フォントサイズを少し大きく */
+    font-weight: bold;       /* 太字 */
+    color: #333;             /* 文字色を濃く */
+    padding: 5px 15px;       /* 内側の余白 */
+    border-radius: 5px;      /* 少し角を丸く */
+    background: #f0f0f0;     /* 控えめな背景色 */
+    border: 1px solid #ccc;  /* 薄いボーダー */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 軽い影 */
+    margin: 5px auto;        /* 上下余白 + 中央寄せ */
+    text-align: center;      /* 中央寄せ */
+    width: 200px;            /* 横幅を200pxに固定 */
+}
+
+/* 全体の余白をリセット */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* タイトル部分の上の余白を減らす */
+#target-name {
+    margin-top: 0;  /* 余白をゼロにする */
+    padding-top: 0; /* 余白をゼロにする */
+}
+
+/* ゲームの他の部分の余白も必要に応じて調整 */
+#game-container {
+    padding-top: 10px; /* 余白を調整 */
+}

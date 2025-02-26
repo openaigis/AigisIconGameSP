@@ -24,13 +24,13 @@
     </style>
 </head>
 <body>
-    <h1>AigisIconGame</h1>
+    <h1>AigisIGNoTitle</h1>
     <div id="mode-selection">
         <button id="time-trial-mode">90秒トライアル</button>
         <button id="endless-challenge-mode">無限チャレンジ</button>
         <button id="one-mistake-mode">ワンミス終了モード</button>
-        <button id="move-to-title">テスト版</button> <!-- 新しいボタンを移動 -->
-        <button id="details-button">詳細</button>
+        <button id="stable-version">安定版</button> <!-- 新しいボタン追加 -->
+        <button id="details-button">詳細</button> <!-- 詳細ボタン追加 -->
     </div>
     <script>
         document.getElementById('time-trial-mode').addEventListener('click', function() {
@@ -42,11 +42,11 @@
         document.getElementById('one-mistake-mode').addEventListener('click', function() {
             window.location.href = 'game.html?mode=one-mistake'; // ワンミス終了モードの遷移先
         });
+        document.getElementById('stable-version').addEventListener('click', function() {
+            window.location.href = '../start.html'; // 一つ上の階層のstart.htmlへの遷移先
+        });
         document.getElementById('details-button').addEventListener('click', function() {
             window.location.href = 'details.html'; // 詳細画面の遷移先
-        });
-        document.getElementById('move-to-title').addEventListener('click', function() {
-            window.location.href = '../称号なし/start.html'; // 称号なし画面の遷移先
         });
     </script>
 </body>
