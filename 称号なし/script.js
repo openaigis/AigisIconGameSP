@@ -1,13 +1,4 @@
 let images = [
-
-
-
-
-
-
-
-
-
     {
         "name": "アルティア",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fe145f49d5c3e713b1d7accd68a69eb0f.png"
@@ -2269,7 +2260,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F776b84d638a3857a8cfbb48877d89215.png"
     },
     {
-        "name": "メイドソーマ",
+        "name": "メイド　ソーマ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc9eaf290783a658eeaf46d59fd5bf176.png"
     },
     {
