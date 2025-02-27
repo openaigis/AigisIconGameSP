@@ -244,7 +244,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa2f6d57c6357a8749d3228038513c7df.png"
     },
     {
-        "name": "Vソフィー",
+        "name": "V　ソフィー",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fa4a01d6dbf2eef99b6952ea8f95d0f6a.png"
     },
     {
@@ -324,7 +324,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fi.gyazo.com%2Fe686cdba17826bdde166fc22a15b4d0b.png"
     },
     {
-        "name": "Vエメルダ",
+        "name": "V　エメルダ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2e09a1efb228de8d47591607073c7e8b.png"
     },
     {
@@ -1732,7 +1732,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F4f13250707e6344ac1e5ff9afdcd3c9f.png"
     },
     {
-        "name": "セブン",
+        "name": "秋セブン",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F22d90d9b62c074e75037c75be475846a.png"
     },
     {
@@ -1840,7 +1840,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb08bdf181b287fa2d5ce4942a16dfc72.png"
     },
     {
-        "name": "ウィリアス",
+        "name": "秋ウィリアス",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F6479a7e98255e38e6d509e22ad7042b7.png"
     },
     {
@@ -1876,7 +1876,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F44980e50077d1d78b5be61ee0e0856ee.png"
     },
     {
-        "name": "アカネ",
+        "name": "湯アカネ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc044e75802258a8a61004f4ae9844ebc.png"
     },
     {
@@ -2188,7 +2188,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F49922aa5242ebfaaea3c618b7224bfb4.png"
     },
     {
-        "name": "ライチ",
+        "name": "学ライチ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F6f61a439eb496e34e98e12840c637a1e.png"
     },
     {
@@ -2428,7 +2428,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F053efca583b6bbfd38784c97fe5b3acd.png"
     },
     {
-        "name": "グレン",
+        "name": "学グレン",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc68df4e0355c73f4474a34471c181cbd.png"
     },
     {
@@ -2644,7 +2644,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F45fe5f049c8dbbf72d66615f843c8c39.png"
     },
     {
-        "name": "アヅミ",
+        "name": "正月アヅミ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F5930908b0fca0096a049a1a4758ae51b.png"
     },
     {
@@ -2832,7 +2832,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F8925040a2e0967bc94d408cc76c09f65.png"
     },
     {
-        "name": "トラム",
+        "name": "白トラム",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F16b3febb604a6d7ba44ebe1595b3b763.png"
     },
     {
@@ -2936,11 +2936,11 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F553d1690c247e39f20961167f764fdf5.png"
     },
     {
-        "name": "ベラ",
+        "name": "浴衣ベラ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F01bd356898c8594102dd95b1c6ecdd95.png"
     },
     {
-        "name": "Vポミエ",
+        "name": "V　ポミエ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F714894315af6736ee57ba6926253335e.png"
     },
     {
@@ -3048,7 +3048,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fb6b2f1183d1bbe5e0e859579bdfdd783.png"
     },
     {
-        "name": "リュリュ",
+        "name": "V　リュリュ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F292519bbb31e059045c0979c7c8172fd.png"
     },
     {
@@ -3180,7 +3180,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc638d2e6bab36dc0a44618b968e9a1fc.png"
     },
     {
-        "name": "リノ",
+        "name": "V　リノ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc2a603283190e962079d5c1259e65361.png"
     },
     {
@@ -3248,7 +3248,7 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F2b6b37a5203da12f6e449f8dcc876d00.png"
     },
     {
-        "name": "学メル",
+        "name": "浴衣メル",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fd2aa82adabf651a4e468793812469ad7.png"
     },
     {
@@ -3965,10 +3965,6 @@ function startTimer() {
 
 // 次のラウンドを読み込む
 function loadNextRound() {
-    if (lifePoints <= 0) {  // ライフポイントがゼロか確認
-        endGame();
-        return;
-    }
 
     if (images.length === 0) {
         console.error('画像リストが空です');
@@ -3992,6 +3988,9 @@ function loadNextRound() {
     const selectedImages = [correctImage]; // 正解画像を選択
     const correctIndex = Math.floor(Math.random() * 9);  // 9個の中から正解をランダムに選択
 
+    let loadedImagesCount = 0;
+    const imagesToLoad = [];
+
     for (let i = 0; i < 9; i++) {  // 9枚の画像を配置
         const img = document.createElement('img');
 
@@ -4009,9 +4008,24 @@ function loadNextRound() {
         selectedImages.push(randomImage); // 画像を選択リストに追加
         img.addEventListener('click', () => handleImageClick(img, correctImage.url));
         imageGridElement.appendChild(img);
+
+        // 画像の読み込み完了を待つ
+        imagesToLoad.push(img);
+        img.addEventListener('load', () => {
+            loadedImagesCount++;
+            if (loadedImagesCount === imagesToLoad.length) {
+                // 全ての画像が読み込まれたらクリックを有効化
+                imagesToLoad.forEach(image => image.style.pointerEvents = 'auto');
+            }
+        });
+
+        img.addEventListener('error', () => {
+            console.error(`画像の読み込みに失敗しました: ${img.src}`);
+        });
+
+        img.style.pointerEvents = 'none'; // 画像が読み込まれるまでクリックを無効化
     }
 }
-
 
 
 // 正解の画像がクリックされたときの処理
