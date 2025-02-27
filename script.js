@@ -1230,10 +1230,6 @@ let images = [
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F8a7fa26f43704a18cf005385ab518939.png"
     },
     {
-        "name": "戦斧の巨人ディタノ",
-        "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png"
-    },
-    {
         "name": "紫編の妖糸クローシェ",
         "url": "https://cdn.wikiwiki.jp/proxy-image/w/aigiszuki?url=https%3A%2F%2Fgyazo.com%2F29514a2acfd621ce73bbae2a4b76426c.png"
     },
